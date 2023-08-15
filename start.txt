@@ -1,1 +1,1 @@
-"Test Git Quick Start demo" 
+Basic codes of python classes and library for understanding and learning python.
